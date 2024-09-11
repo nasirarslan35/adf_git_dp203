@@ -1,0 +1,9 @@
+{
+	"name": "datafactory00035",
+	"location": "uaenorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e3b71392-720f-4ded-ac41-12e2cc79c9ff",
+		"tenantId": "44faa491-73d6-4332-b8fd-c0143147f5e9"
+	}
+}
