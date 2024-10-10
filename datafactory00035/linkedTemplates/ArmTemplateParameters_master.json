@@ -11,12 +11,6 @@
 		"AzureDataLakeStorage1_properties_typeProperties_url": {
 			"value": "https://datalake00035.dfs.core.windows.net/"
 		},
-		"AzureDatabricks1_properties_typeProperties_existingClusterId": {
-			"value": "1010-185403-2r3s6ay6"
-		},
-		"AzureDatabricks2_properties_typeProperties_existingClusterId": {
-			"value": "1010-185403-2r3s6ay6"
-		},
 		"containerUri": {
 			"value": ""
 		},

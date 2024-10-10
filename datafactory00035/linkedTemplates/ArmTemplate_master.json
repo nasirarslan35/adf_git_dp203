@@ -15,14 +15,6 @@
 			"type": "string",
 			"defaultValue": "https://datalake00035.dfs.core.windows.net/"
 		},
-		"AzureDatabricks1_properties_typeProperties_existingClusterId": {
-			"type": "string",
-			"defaultValue": "1010-185403-2r3s6ay6"
-		},
-		"AzureDatabricks2_properties_typeProperties_existingClusterId": {
-			"type": "string",
-			"defaultValue": "1010-185403-2r3s6ay6"
-		},
 		"containerUri": {
 			"type": "string",
 			"metadata": "URI to storage account containing linked ARM templates"
@@ -55,12 +47,6 @@
 					},
 					"AzureDataLakeStorage1_properties_typeProperties_url": {
 						"value": "[parameters('AzureDataLakeStorage1_properties_typeProperties_url')]"
-					},
-					"AzureDatabricks1_properties_typeProperties_existingClusterId": {
-						"value": "[parameters('AzureDatabricks1_properties_typeProperties_existingClusterId')]"
-					},
-					"AzureDatabricks2_properties_typeProperties_existingClusterId": {
-						"value": "[parameters('AzureDatabricks2_properties_typeProperties_existingClusterId')]"
 					}
 				}
 			},
